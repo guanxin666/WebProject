@@ -16,6 +16,7 @@
  
 
 1_FUNC_02搜索引擎直接进入首页：
+![1_FUNC_02](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/1_FUNC_02.png)
 
 
 
@@ -27,12 +28,14 @@
 
 顾客将所要的商品放入购物车，在购物车中会列出所购商品的各项信息，如商品编号、商品名称、商品单价、商品数量和价格总计等。在购物车中可以修改购买数量或取消商品的购买。如果还需要继续选购商品，则可以继续购物；如已确定所购物品，则可付款结账。
 
-
+![3.2](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/3.2.png)
+![3.2(1)](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/3.2(1).png)
 
 
 
 2_FUNC_01查看详细商品信息：
 
+![2_FUNC_01](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/2_FUNC_01.png)
 
 
 2_FUNC_02购物车处理：
