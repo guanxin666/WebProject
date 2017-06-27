@@ -11,7 +11,7 @@
 
 1_FUNC_01模块集成功能：
 
-
+![1_FUNC_01](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/1_FUNC_01.png)
 
  
 
