@@ -83,23 +83,23 @@
 3.4商品后台管理系统添加、修改需要发布的商品及相关内容，即可自动生成网页，极大地提高了工作效率，加快了网站内容的更新速度。而且通过后台还可以查看订单、修改订单状态和删除订单等。
 
 
-
+![3.4](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/3.4.png)
 4_FUNC_01商品处理：
-
-
-
+![4_FUNC_01_01](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/4_FUNC_01_01.png)
+![4_FUNC_01_02](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/4_FUNC_01_02.png)
+![4_FUNC_01_03](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/4_FUNC_01_03.png)
 
 
 
 
 4_FUNC_02订单处理：
-
-
+![4_FUNC_02_01](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/4_FUNC_02_01.png)
+![4_FUNC_02_02](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/4_FUNC_02_02.png)
 
 
 
 4_FUNC_03账户处理：
-
+![4_FUNC_03](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/4_FUNC_03.png)
 
 
 3.5用户管理子系统
