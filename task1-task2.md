@@ -147,6 +147,6 @@ nignx转发使用域名转发。
 
 显示购物车数量 如果user获取失败，则获取cookie中的key，redis查询数据转换为list返回
 
-删除购物车种商品 获取user失败，则获取cookie中key，redis查询数据，便利对比，删除
+删除购物车种商品 获取user失败，则获取cookie中key，redis查询数据，便利对比，删除 
 
 
