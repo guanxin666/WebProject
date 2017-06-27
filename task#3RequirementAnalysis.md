@@ -51,17 +51,19 @@
 2_FUNC_03用户评论：
 
 
-
+![2_FUNC_03_01](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/2_FUNC_03_01.png)
+![2_FUNC_03_02](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/2_FUNC_03_02.png)
 
 
 2_FUNC_04付款结账：
 
-
+![2_FUNC_04](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/2_FUNC_04.png)
 
 2_FUNC_05订单查询：
 
 
-
+![2_FUNC_05_01](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/2_FUNC_05_01.png)
+![2_FUNC_05_02](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/2_FUNC_05_02.png)
 
 
 3.3商品搜索子系统
