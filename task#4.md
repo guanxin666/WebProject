@@ -43,23 +43,29 @@
 
 ![4](https://github.com/GongYanran/WebProject/blob/master/4.png)
 
+
 （1）商品信息维护，系统管理员登陆后可以对系统所有商品维护，包括商品的价格调整，新商品的加入和过期商品的删除等。
 
 ![5](https://github.com/GongYanran/WebProject/blob/master/5.png)
 
+
 前提条件：管理员已经登陆。
 （2）内部员工信息维护。系统管理员登陆后可以对信息进行维护，包括员工个人信息的更新等。
 
+
 ![6](https://github.com/GongYanran/WebProject/blob/master/6.png)
+
 
 （3）订单处理。订单处理一般是普通员工的工作，可以获得未处理的订单，并根据库存情况发货或者延迟发货。
 
 ![7](https://github.com/GongYanran/WebProject/blob/master/7.png)
 
+
 前提条件：管理员或者普通员工已经登陆。
 （4）销售情况查询。销售情况查询为企业管理者提供参数。管理员登陆后，可以得到详细的销售情况列表。
 
 ![8](https://github.com/GongYanran/WebProject/blob/master/8.png)
+
 
 （5）报表维护。报表维护提供查询结果的打印输出功能，如图11所示。
 
