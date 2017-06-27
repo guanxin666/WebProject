@@ -70,14 +70,14 @@
 
 购物网站中丰富的商品各类对于访问者来说无异于一个商品的海洋，想在其中查到所需要的商品，商品搜索系统可以说是一个必不可少的工具，通过这个系统，顾客可以在通过输入关键词进行快速查找、检索自己需要的。
 
-
+![3.3](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/3.3.png)
 
 3_FUNC_01关键字搜索功能：
-
+![3_FUNC_01](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/3_FUNC_01.png)
 
 
 3_FUNC_02关键字点击搜索功能：
-
+![3_FUNC_02](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/3_FUNC_02.png)
 
 
 3.4商品后台管理系统添加、修改需要发布的商品及相关内容，即可自动生成网页，极大地提高了工作效率，加快了网站内容的更新速度。而且通过后台还可以查看订单、修改订单状态和删除订单等。
