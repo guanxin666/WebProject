@@ -106,11 +106,11 @@
 
 该系统的功能是通过会员制的管理，一方面可以相对明确访问者的身份，提高客户的信息和网上意见反馈的准确度与可信度。另一方面可以会员积分的管理，开展优惠促销活动等，提高网站的吸引力。最后，可以加强客户的认同感和归属感，提升客户忠诚度。
 
-
+![3.5](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/3.5.png)
 
 5_FUNC_01用户注册管理：
-
-
+![5_FUNC_01_01](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/5_FUNC_01_01.png)
+![5_FUNC_01_02](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/5_FUNC_01_02.png)
 
 
 
@@ -133,7 +133,6 @@
 
 
 3.6该系统是通过一个操作简单的界面将要发布的信息加入数据库，然后通过已有的网页模板格式发布到网站上。管理员在浏览器上只需录入文字就可以快速实现新闻维护，从而大大加快了信息的传播速度，增强了网站的活动力和影响力。
-
 
 
 
