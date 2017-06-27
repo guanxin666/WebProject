@@ -111,9 +111,9 @@
 5_FUNC_01用户注册管理：
 ![5_FUNC_01_01](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/5_FUNC_01_01.png)
 ![5_FUNC_01_02](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/5_FUNC_01_02.png)
-
-
-
+![5_FUNC_01_03](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/5_FUNC_01_03.png)
+![5_FUNC_01_04](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/5_FUNC_01_04.png)
+![5_FUNC_01_05](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/5_FUNC_01_05.png)
 
 
 
@@ -123,17 +123,17 @@
 5_FUNC_02用户权限设置：
 
 
-
-
+![5_FUNC_02_01](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/5_FUNC_02_01.png)
+![5_FUNC_02_02](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/5_FUNC_02_02.png)
 
 5_FUNC_03会员用户积分管理：
-
-
+![5_FUNC_03_01](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/5_FUNC_03_01.png)
+![5_FUNC_03_02](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/5_FUNC_03_02.png)
 
 
 
 3.6该系统是通过一个操作简单的界面将要发布的信息加入数据库，然后通过已有的网页模板格式发布到网站上。管理员在浏览器上只需录入文字就可以快速实现新闻维护，从而大大加快了信息的传播速度，增强了网站的活动力和影响力。
-
+![3.6](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/3.6.png)
 
 
 
