@@ -3,7 +3,8 @@
 3.1购物网站首页
 
    包含商品购物模块，商品搜索模块，商品后台管理模块，用户管理模块，新闻信息管理模块。以上模块可便于顾客了解购物网站的主要功能，一遍进行有效的操作。首页，展示网站总体格局，发挥导航作用。
-[3.1](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/3.1.png)
+   
+![3.1](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/3.1.png)
 
 
  
