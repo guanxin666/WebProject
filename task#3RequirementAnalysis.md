@@ -40,7 +40,9 @@
 
 2_FUNC_02购物车处理：
 
-
+![2_FUNC_02_01](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/2_FUNC_02_01.png)
+![2_FUNC_02_02](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/2_FUNC_02_02.png)
+![2_FUNC_02_03](https://github.com/LiuLynn/WebProject/blob/master/task%233_RequirementAnalysis/2_FUNC_02_03.png)
 
 
 
