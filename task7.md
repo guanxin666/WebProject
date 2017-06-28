@@ -1,5 +1,5 @@
 ## 系统架构:
-![Image text](WebProject/image/7_FUNC_01_01.png)
+![Image text](http://github.com/Best-People/WebProject/image/7_FUNC_01_01.png)
 
 
 ## redis:  来构建分布式的缓存服务器.
