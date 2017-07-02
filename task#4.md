@@ -29,24 +29,24 @@
 1.2用户接口模块
 用户接口模块包括
 
-![2](https://github.com/GongYanran/WebProject/blob/master/2.png)
+![2](https://github.com/GongYanran/WebProject/blob/master/task4/2.png)
 
 （1）用户信息维护。用户必须先注册，用户名是标识。后台程序记录每个用户操作,根据用户的记录判断该用户的喜好。
 （2）商品查询。商品查询模块可以根据商品的名称、种类等条件进行组合查询。
 （3）订购商品。客户可以选择自己需要的商品放进购物车。用户记录都保存在系统数据库中供后台管理员分析。
 （4）订单维护。客户订购商品后可查询状态。客户的订单维护信息也被保存在系统数据库中供管理员分析。
 
-![3](https://github.com/GongYanran/WebProject/blob/master/3.png)
+![3](https://github.com/GongYanran/WebProject/blob/master/task4/3.png)
 
 1.3 管理员接口模块
 管理员接口包括
 
-![4](https://github.com/GongYanran/WebProject/blob/master/4.png)
+![4](https://github.com/GongYanran/WebProject/blob/master/task4/4.png)
 
 
 （1）商品信息维护，系统管理员登陆后可以对系统所有商品维护，包括商品的价格调整，新商品的加入和过期商品的删除等。
 
-![5](https://github.com/GongYanran/WebProject/blob/master/5.png)
+![5](https://github.com/GongYanran/WebProject/blob/master/task4/5.png)
 
 
 前提条件：管理员已经登陆。
@@ -54,42 +54,42 @@
 （2）内部员工信息维护。系统管理员登陆后可以对信息进行维护，包括员工个人信息的更新等。
 
 
-![6](https://github.com/GongYanran/WebProject/blob/master/6.png)
+![6](https://github.com/GongYanran/WebProject/blob/master/task4/6.png)
 
 
 （3）订单处理。
 订单处理一般是普通员工的工作，可以获得未处理的订单，并根据库存情况发货或者延迟发货。
 
-![7](https://github.com/GongYanran/WebProject/blob/master/7.png)
+![7](https://github.com/GongYanran/WebProject/blob/master/task4/7.png)
 
 
 前提条件：管理员或者普通员工已经登陆。
 
 （4）销售情况查询。销售情况查询为企业管理者提供参数。管理员登陆后，可以得到详细的销售情况列表。
 
-![8](https://github.com/GongYanran/WebProject/blob/master/8.png)
+![8](https://github.com/GongYanran/WebProject/blob/master/task4/8.png)
 
 
 （5）报表维护。
 报表维护提供查询结果的打印输出功能，如图11所示。
 
-![9](https://github.com/GongYanran/WebProject/blob/master/9.png)
+![9](https://github.com/GongYanran/WebProject/blob/master/task4/9.png)
 
 
 2 系统UML建模
 2.1 系统用例图
   
 
-![10](https://github.com/GongYanran/WebProject/blob/master/10.png)
+![10](https://github.com/GongYanran/WebProject/blob/master/task4/10.png)
 
 
-![11](https://github.com/GongYanran/WebProject/blob/master/11.png)
+![11](https://github.com/GongYanran/WebProject/blob/master/task4/11.png)
 
 
 2.2 系统的时序图和活动图
 
-![12](https://github.com/GongYanran/WebProject/blob/master/12.png)
+![12](https://github.com/GongYanran/WebProject/blob/master/task4/12.png)
 
-![13](https://github.com/GongYanran/WebProject/blob/master/13.png)
+![13](https://github.com/GongYanran/WebProject/blob/master/task4/13.png)
 
-![14](https://github.com/GongYanran/WebProject/blob/master/14.png)
+![14](https://github.com/GongYanran/WebProject/blob/master/task4/14.png)
